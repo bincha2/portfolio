@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dddafc58-8ca5-45ad-a3fb-a74a87d3fdcc" name="Changes" comment="Testing update">
+    <list default="true" id="dddafc58-8ca5-45ad-a3fb-a74a87d3fdcc" name="Changes" comment="package.json fix">
       <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/threejs_portfolio.iml" afterDir="false" />
@@ -18017,7 +18017,7 @@
       <workItem from="1737343044801" duration="758000" />
       <workItem from="1737344318157" duration="12000" />
       <workItem from="1737344331519" duration="4976000" />
-      <workItem from="1756095693774" duration="3966000" />
+      <workItem from="1756095693774" duration="5199000" />
     </task>
     <task id="LOCAL-00001" summary="Commit 1">
       <option name="closed" value="true" />
@@ -18095,6 +18095,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Commit 1" />
     <MESSAGE value="Testing update" />
-    <option name="LAST_COMMIT_MESSAGE" value="Testing update" />
+    <MESSAGE value="package.json fix" />
+    <option name="LAST_COMMIT_MESSAGE" value="package.json fix" />
   </component>
 </project>
