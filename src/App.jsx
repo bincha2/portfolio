@@ -6,10 +6,11 @@ import Projects from "./sections/Projects.jsx";
 import Experience from "./sections/Experience.jsx";
 import Contact from "./sections/Contact.jsx";
 
+
 const App = () => {
     return (
         <main className="max-w-7xl mx-auto">
-            <Navbar />
+             <Navbar />
             <Hero />
             <About/>
             <Experience/>
@@ -19,3 +20,8 @@ const App = () => {
     )
 }
 export default App
+
+
+
+
+
