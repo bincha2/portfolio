@@ -10,7 +10,7 @@ const Hero = () => {
                         Hey, im David!
                     </p>
                     <p className="hero_tag text-gray_gradient font-generalsans breathe">
-                        Software Engineer and Student
+                        Jasmine is a terrorist
                     </p>
                 </div>
             </div>
