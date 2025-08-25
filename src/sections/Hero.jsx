@@ -7,10 +7,10 @@ const Hero = () => {
             <div className="h-screen flex justify-center items-center">
                 <div className="w-full mx-auto flex flex-col sm:mt-36 mt-20 c-space gap-3">
                     <p className="sm:text-3xl text-2xl fond-extrabold text-white-800 text-center font-generalsans">
-                        Hey, im David!
+                        Hey, I'm David!
                     </p>
                     <p className="hero_tag text-gray_gradient font-generalsans breathe">
-                        Jasmine is a terrorist
+                        Software Engineer & Student
                     </p>
                 </div>
             </div>

@@ -6,6 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="dddafc58-8ca5-45ad-a3fb-a74a87d3fdcc" name="Changes" comment="package.json fix">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/sections/Hero.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/sections/Hero.jsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -149,7 +150,7 @@
       <workItem from="1756095693774" duration="5357000" />
       <workItem from="1756101337351" duration="1505000" />
       <workItem from="1756104047133" duration="4994000" />
-      <workItem from="1756117098559" duration="20000" />
+      <workItem from="1756117098559" duration="139000" />
     </task>
     <task id="LOCAL-00001" summary="Commit 1">
       <option name="closed" value="true" />
