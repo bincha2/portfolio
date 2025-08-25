@@ -79,9 +79,9 @@ export const myProjects = [
             'Implemented react native deck swiper to mimic Tinder swiping mechanics to display available restaurants, calling API for each cuisine type. Used Expo Dynamic routing to have one constant page available to display various cuisines, and AsyncStorage to allow users to locally save favorited restaurants ',
         href: '',
         texture: '/textures/project/project2.mp4',
-        logo: '/assets/cuezinelogo.jpg',
+        logo: '/assets/foodlogo.webp',
         logoStyle: {
-            backgroundColor: '#ecb6b6',
+            backgroundColor: '#000000',
             border: '0.2px solid #36201D',
             boxShadow: '0px 0px 60px 0px #36201D',
         },

@@ -7,7 +7,7 @@ const Experience = () => {
                 Experience
             </p>
             <div className="flex justify-center items-center">
-                <div className="grid-container w-full h-full inline-block">
+                <div className="grid-container-glass w-full h-full inline-block">
                     {/*experience 1*/}
                     <div className="flex items-center">
                         <img src="/assets/rbvillage.webp" alt="rubberband vilalge logo" className="w-12 h-12"/>

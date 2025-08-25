@@ -69,6 +69,13 @@ body {
         @apply w-full h-full border border-black-300 bg-black-200 rounded-lg sm:p-7 p-4 flex flex-col gap-5;
     }
 
+    .grid-container-glass {
+        @apply w-full h-full border border-white border-opacity-20 rounded-lg sm:p-7 p-4 flex flex-col gap-5;
+        background: rgba(255, 255, 255, 0.05);
+        backdrop-filter: blur(2px);
+        -webkit-backdrop-filter: blur(10px);
+    }
+
     .grid-headtext {
         @apply text-xl font-semibold mb-2 text-white font-generalsans;
     }

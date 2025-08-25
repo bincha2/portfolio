@@ -6,16 +6,13 @@
   <component name="ChangeListManager">
     <list default="true" id="dddafc58-8ca5-45ad-a3fb-a74a87d3fdcc" name="Changes" comment="package.json fix">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/assets/index-DC_wsPLB.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/assets/index-dJ6aQ30B.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/dist/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/.package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/App.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/constants/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/constants/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/sections/About.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/sections/About.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sections/Contact.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/sections/Contact.jsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/sections/Experience.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/sections/Experience.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/sections/Hero.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/sections/Hero.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sections/Projects.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/sections/Projects.jsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -157,7 +154,7 @@
       <workItem from="1737344331519" duration="4976000" />
       <workItem from="1756095693774" duration="5357000" />
       <workItem from="1756101337351" duration="1505000" />
-      <workItem from="1756104047133" duration="1599000" />
+      <workItem from="1756104047133" duration="4797000" />
     </task>
     <task id="LOCAL-00001" summary="Commit 1">
       <option name="closed" value="true" />

@@ -18,14 +18,14 @@ const Contact = () => {
                     <div className="flex items-center">
                         <img src="/assets/linkedin.png" alt="linkedin" className="w-12 h-12"/>
                         <a href="https://www.linkedin.com/in/david-hyun-kim" target = "_blank"
-                           className="grid-headtext ml-5 text-lg text-gray-300 hover:text-rose-300 flex-grow">
+                           className="grid-headtext ml-5 text-lg text-gray-300 hover:text-yellow-400 flex-grow">
                             LinkedIn
                         </a>
                     </div>
                     <div className="flex items-center">
                         <img src="/assets/github.svg" alt="github" className="w-12 h-12"/>
                         <a href="https://github.com/bincha2" target="_blank"
-                           className="grid-headtext ml-5 text-lg text-gray-300 hover:text-rose-300 flex-grow">
+                           className="grid-headtext ml-5 text-lg text-gray-300 hover:text-blue-400 flex-grow">
                             GitHub (More Projects Here!)
                         </a>
                     </div>
